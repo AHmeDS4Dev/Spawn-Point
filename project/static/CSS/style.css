@@ -1,6 +1,6 @@
 @font-face{
     font-family: 'mc';
-    src: url('../../src/fonts/Jersey_10/Jersey10-Regular.ttf') format('truetype');
+    src: url('./../../src/fonts/Jersey_10/Jersey10-Regular.ttf') format('truetype');
 }
 body{
     font-family: mc;
