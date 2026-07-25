@@ -2,8 +2,13 @@
     font-family: 'mc';
     src: url('./../../src/fonts/Jersey_10/Jersey10-Regular.ttf') format('truetype');
 }
+.jersey-10-regular {
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 body{
-    font-family: mc;
+    font-family: jersey 10, sans-serif;
     background: #f8ece1;
 }
 header{
